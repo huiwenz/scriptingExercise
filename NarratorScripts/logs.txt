@@ -1,0 +1,176 @@
+16:16:16.111 onkeypress
+16:16:16.120 {"keyCode":50}
+16:16:16.126 Get desktop: Desktop
+16:16:16.139 Get outlook: Inbox - t-wenzha@microsoft.com - Outlook
+16:16:16.844 Key pressed.
+16:16:19.229 t-wenzha@microsoft.com
+16:16:19.244 Georgi.Chalakov@microsoft.com
+16:16:19.325 Todo
+16:16:19.349 Task 1
+16:17:47.903 onkeypress
+16:17:47.907 {"keyCode":50}
+16:17:47.910 Get desktop: Desktop
+16:17:47.930 Get outlook: Inbox - t-wenzha@microsoft.com - Outlook
+16:17:48.533 Key pressed.
+16:17:50.569 t-wenzha@microsoft.com
+16:17:50.578 Georgi.Chalakov@microsoft.com
+16:17:50.647 Todo
+16:17:50.700 Task 1
+16:18: 9.678 onkeypress
+16:18: 9.681 {"keyCode":50}
+16:18: 9.684 Get desktop: Desktop
+16:18: 9.698 Get outlook: Inbox - t-wenzha@microsoft.com - Outlook
+16:18:10.336 Key pressed.
+16:18:12.405 t-wenzha@microsoft.com
+16:18:12.413 Georgi.Chalakov@microsoft.com
+16:18:12.468 Todo
+16:18:12.529 Task 1
+17:30:39.694 onkeypress
+17:30:39.698 {"keyCode":50}
+17:30:39.700 Get desktop: Desktop
+17:30:39.706 Get outlook: Inbox - t-wenzha@microsoft.com - Outlook
+17:30:40.391 Key pressed.
+17:36: 1.826 onkeypress
+17:36: 1.829 {"keyCode":50}
+17:36: 1.831 Get desktop: Desktop
+17:36: 1.838 Get outlook: Inbox - t-wenzha@microsoft.com - Outlook
+17:36: 2.491 Key pressed.
+17:36: 4.681 t-wenzha@microsoft.com
+17:36: 4.696 Georgi.Chalakov@microsoft.com
+17:36: 4.890 Todo
+17:36: 4.987 Task 1
+17:41:51.369 onkeypress
+17:41:51.373 {"keyCode":50}
+17:41:51.376 Get desktop: Desktop
+17:41:51.386 Get outlook: Inbox - t-wenzha@microsoft.com - Outlook
+17:41:51.994 Key pressed.
+17:41:54. 41 t-wenzha@microsoft.com
+17:41:54. 49 Georgi.Chalakov@microsoft.com
+17:41:54. 92 Todo
+17:41:54.153 Task 1
+17:53: 7.501 onkeypress
+17:53: 7.504 {"keyCode":50}
+17:53: 7.515 Get desktop: Desktop
+17:53: 7.523 Get outlook: Inbox - t-wenzha@microsoft.com - Outlook
+17:53: 8.311 Key pressed.
+17:53:10.879 t-wenzha@microsoft.com
+17:53:10.889 Georgi.Chalakov@microsoft.com
+17:53:10.916 Todo
+17:53:10.974 Task 1
+ 8:29:46.167 onkeypress
+ 8:29:46.232 {"keyCode":50}
+ 8:29:46.285 Get desktop: Desktop
+ 8:29:46.324 Get outlook: Inbox - t-wenzha@microsoft.com - Outlook
+ 8:29:47.199 Key pressed.
+ 8:29:49.317 t-wenzha@microsoft.com
+ 8:29:49.338 Georgi.Chalakov@microsoft.com
+ 8:29:49.406 Todo
+ 8:29:49.478 Task 1
+ 8:30: 1.397 onkeypress
+ 8:30: 1.407 {"keyCode":50}
+ 8:30: 1.410 Get desktop: Desktop
+ 8:30: 1.417 Get outlook: Inbox - t-wenzha@microsoft.com - Outlook
+ 8:30: 2.172 Key pressed.
+ 8:30: 4.890 t-wenzha@microsoft.com
+ 8:30: 4.906 Georgi.Chalakov@microsoft.com
+ 8:30: 5. 85 Todo
+ 8:30: 5.162 Task 1
+ 8:32: 2.807 onkeypress
+ 8:32: 2.811 {"keyCode":50}
+ 8:32: 2.815 Get desktop: Desktop
+ 8:32: 2.822 Get outlook: Inbox - t-wenzha@microsoft.com - Outlook
+ 8:32: 3.518 Key pressed.
+ 8:32: 5.981 t-wenzha@microsoft.com
+ 8:32: 6. 13 Georgi.Chalakov@microsoft.com
+ 8:32: 6. 87 Todo
+ 8:32: 6.478 Task 1
+10:57:38.688 onkeypress
+10:57:38.739 {"keyCode":50}
+10:57:38.763 Get desktop: Desktop
+10:57:38.776 Get outlook: Inbox - t-wenzha@microsoft.com - Outlook
+10:57:41.223 Key pressed.
+10:57:43.681 t-wenzha@microsoft.com
+10:57:43.928 Georgi.Chalakov@microsoft.com
+10:57:44.251 Todo
+10:57:44.757 Task 1
+10:58: 4.577 onkeypress
+10:58: 4.586 {"keyCode":50}
+10:58: 4.596 Get desktop: Desktop
+10:58: 4.611 Get outlook: Inbox - t-wenzha@microsoft.com - Outlook
+10:58: 5.329 Key pressed.
+10:58: 7.887 t-wenzha@microsoft.com
+10:58: 7.895 Georgi.Chalakov@microsoft.com
+10:58: 7.948 Todo
+10:58: 8.101 Task 1
+10:58:41.449 onkeypress
+10:58:41.456 {"keyCode":50}
+10:58:41.459 Get desktop: Desktop
+10:58:41.465 Get outlook: Inbox - t-wenzha@microsoft.com - Outlook
+10:58:42.187 Key pressed.
+10:58:44.267 t-wenzha@microsoft.com
+10:58:44.283 Georgi.Chalakov@microsoft.com
+10:58:44.333 Todo
+10:58:44.407 Task 1
+10:59: 5.259 onkeypress
+10:59: 5.262 {"keyCode":50}
+10:59: 5.265 Get desktop: Desktop
+10:59: 5.271 Get outlook: Inbox - t-wenzha@microsoft.com - Outlook
+10:59: 6.315 Key pressed.
+10:59: 8.352 t-wenzha@microsoft.com
+10:59: 8.361 Georgi.Chalakov@microsoft.com
+10:59: 8.413 Todo
+10:59: 8.516 Task 1
+10:59:15.952 onkeypress
+10:59:15.955 {"keyCode":50}
+10:59:15.957 Get desktop: Desktop
+10:59:15.964 Get outlook: Inbox - t-wenzha@microsoft.com - Outlook
+10:59:16.600 Key pressed.
+10:59:19.139 t-wenzha@microsoft.com
+10:59:19.148 Georgi.Chalakov@microsoft.com
+10:59:19.203 Todo
+10:59:19.331 Task 1
+10:59:29.214 onkeypress
+10:59:29.217 {"keyCode":50}
+10:59:29.220 Get desktop: Desktop
+10:59:29.226 Get outlook: Inbox - t-wenzha@microsoft.com - Outlook
+10:59:29.933 Key pressed.
+10:59:32.679 t-wenzha@microsoft.com
+10:59:32.711 Georgi.Chalakov@microsoft.com
+10:59:32.821 Todo
+10:59:33. 16 Task 1
+11:40: 6.932 onkeypress
+11:40: 6.935 {"keyCode":50}
+11:40: 6.939 Get desktop: Desktop
+11:40: 6.946 Get outlook: Inbox - t-wenzha@microsoft.com - Outlook
+11:40: 7.568 Key pressed.
+11:40:10. 41 t-wenzha@microsoft.com
+11:40:10. 51 Georgi.Chalakov@microsoft.com
+11:40:10.110 Todo
+11:40:10.187 Task 1
+11:40:32.723 onkeypress
+11:40:32.723 {"keyCode":50}
+11:40:32.738 Get desktop: Desktop
+11:40:32.738 Get outlook: Inbox - t-wenzha@microsoft.com - Outlook
+11:40:33.254 Key pressed.
+11:40:35.289 t-wenzha@microsoft.com
+11:40:35.303 Georgi.Chalakov@microsoft.com
+11:40:35.367 Todo
+11:40:35.492 Task 1
+11:41:28.205 onkeypress
+11:41:28.205 {"keyCode":50}
+11:41:28.205 Get desktop: Desktop
+11:41:28.220 Get outlook: Inbox - t-wenzha@microsoft.com - Outlook
+11:41:28.767 Key pressed.
+11:41:30.925 t-wenzha@microsoft.com
+11:41:30.994 Georgi.Chalakov@microsoft.com
+11:41:31. 32 Todo
+11:41:31. 91 Task 1
+11:42:13.784 onkeypress
+11:42:13.787 {"keyCode":50}
+11:42:13.791 Get desktop: Desktop
+11:42:13.800 Get outlook: Inbox - t-wenzha@microsoft.com - Outlook
+11:42:14.321 Key pressed.
+11:42:16.553 t-wenzha@microsoft.com
+11:42:16.581 Georgi.Chalakov@microsoft.com
+11:42:16.624 Todo
+11:42:16.756 Task 1
